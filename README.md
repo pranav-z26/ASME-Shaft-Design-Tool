@@ -2,6 +2,9 @@
 
 An interactive Streamlit web application for sizing solid and hollow transmission shafts according to ASME recommendations (ASME B106.1M).
 
+<img width="1918" height="971" alt="image" src="https://github.com/user-attachments/assets/6c6c17f7-42b4-42df-8de0-1c4bd8eae4e8" />
+
+
 ---
 
 ## 🛠 Locally Deploy the Application
@@ -91,6 +94,7 @@ Summary of the calculation steps (values rounded for clarity):
 ---
 
 ## How to verify outputs in the app
+
 1. Start the app with `streamlit run app.py`.
 2. Enter the verification inputs above in the sidebar.
 3. Confirm the calculated minimum diameter shows approximately **39.54 mm** and the recommended standard diameter is **40 mm**.
